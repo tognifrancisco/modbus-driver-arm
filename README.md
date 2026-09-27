@@ -5,7 +5,6 @@ microcontrollers (STM32, TI C2000, NXP).
 
 ## What it does
 - Modbus RTU master/slave over UART/RS-485
-- Modbus TCP over Ethernet (LwIP-compatible)
 - Hardware CRC-16 and register mapping
 
 ## Why
